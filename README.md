@@ -1,16 +1,27 @@
-### Hi there 👋
+# Alejandro Esteban Gil
+## Welcome!
 
-<!--
-**alejandroestebangil/alejandroestebangil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my GitHub profile you will find my proyects and every contribution in software development I have ever made.
 
-Here are some ideas to get you started:
+- 👨‍💻 Multi-platform software development student.
+- 🎓 I'm currently studying at [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
+- 🌐 Passionate about technology and software development, always looking to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,dotnet,cs,spring,angular,js,ts,jquery,html,css,bootstrap,mysql,postgres,sqlite,linux,git,docker,aws&perline=11" />
+  </a>
+</p>
+
+## Contact
+
+If you want to contact me, you can find me at the following:
+- [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />](https://www.linkedin.com/in/alejandroestebangil)
+- Send me an email at [alejandroestebangil@gmail.com](mailto:alejandroestebangil@gmail.com)
+
+
+## Thanks for visting my GitHub profile!
+
+
