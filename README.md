@@ -11,7 +11,7 @@ In my GitHub profile you will find my proyects and every contribution in softwar
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,angular,js,ts,dotnet,cs,jquery,html,css,bootstrap,mysql,postgres,sqlite,linux,git,docker,aws&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,py,angular,spring,js,ts,dotnet,cs,jquery,html,css,bootstrap,mysql,postgres,sqlite,linux,git,docker,aws&perline=11" />
   </a>
 </p>
 
