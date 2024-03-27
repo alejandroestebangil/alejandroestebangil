@@ -4,7 +4,7 @@
 In my GitHub profile you will find my proyects and every contribution in software development I have ever made.
 
 - 👨‍💻 Working as a Software Developer in [Software Grupo V](https://www.sgv.es/)
-- 🎓 Higher Technician in Multi-platform Software Development. at [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
+- 🎓 Higher Technician in Multi-platform Software Development at [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
 - 🌐 Passionate about technology and software development, always looking to improve my skills.
 
 ## My skills
