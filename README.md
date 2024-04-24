@@ -1,3 +1,5 @@
+<img align="right" src="https://visitcount.itsvg.in/api?id=alejandroestebangil&label=Views&color=12&icon=5&pretty=false" alt="Profile Visits Count"/>
+
 # Alejandro Esteban Gil
 ## Welcome!
 
@@ -18,8 +20,14 @@ In my GitHub profile you will find my proyects and every contribution in softwar
 ## Contact
 
 If you want to contact me, you can find me at the following:
-- [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" />](https://www.linkedin.com/in/alejandroestebangil)
-- Send me an email at [alejandroestebangil@gmail.com](mailto:alejandroestebangil@gmail.com)
+<div> 
+  <a href="mailto:alejandroestebangil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/alejandroestebangil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>      
+</div>
 
 
 ## Thanks for visting my GitHub profile!
