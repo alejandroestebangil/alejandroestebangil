@@ -1,18 +1,20 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=alejandroestebangil&label=Views&color=12&icon=5&pretty=false" alt="Profile Visits Count"/>
 
 # Alejandro Esteban Gil
-## Welcome!
+## Welcome! 👋
 
-In my GitHub profile you will find my proyects and every contribution in software development I have ever made.
+In my GitHub profile you will find my proyects and contributions in software development I have made.
 
+- 🌍 Based in Zaragoza, Spain
+- 🚀 Intern at [Adidas](http://adidas.com)
 - 🎓 Higher Technician in Multi-platform Software Development at [Salesianos Zaragoza](https://zaragoza.salesianos.edu/).
 - 🌐 Passionate about technology and software development, always looking to improve my skills.
 
 ## My skills
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,angular,spring,js,ts,dotnet,cs,jquery,html,css,bootstrap,mysql,postgres,sqlite,linux,git,docker,aws&perline=11" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=swift,java,py,spring,js,ts,html,css,cs,mysql,postgres,apple,linux,git,bitbucket,github&perline=8" />
   </a>
 </p>
 
@@ -21,14 +23,13 @@ In my GitHub profile you will find my proyects and every contribution in softwar
 If you want to contact me, you can find me at the following:
 <div> 
   <a href="mailto:alejandroestebangil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
   </a>
-  <a href="https://www.linkedin.com/in/alejandroestebangil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>      
+  <span></span>
+  <a href="https://www.linkedin.com/in/alejandroestebangil">
+     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
+  </a>     
 </div>
 
 
 ## Thanks for visting my GitHub profile!
-
-
