@@ -1,12 +1,10 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=alejandroestebangil&label=Views&color=12&icon=5&pretty=false" alt="Profile Visits Count"/>
-
 # Alejandro Esteban Gil
 ## Welcome! 👋
 
 In my GitHub profile you will find my proyects and contributions in software development I have made.
 
 - 🌍 Based in Zaragoza, Spain
-- 🚀 Intern at [Adidas](http://adidas.com)
+- 🚀 Intern @ [Adidas](http://adidas.com)
 - 🎓 Higher Technician in Multi-platform Software Development at [Salesianos Zaragoza](https://zaragoza.salesianos.edu/).
 - 🌐 Passionate about technology and software development, always looking to improve my skills.
 
